@@ -1,0 +1,3 @@
+Le bouton Export
+exporte tt les info de l'adresse IP vers un fichier txt préalablement créer et défini dans le code de l'appli
+pour le faire fonctionner sur vos PC modifier le chemin par défaut du btnExport dans le .cs
